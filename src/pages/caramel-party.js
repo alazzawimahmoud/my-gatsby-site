@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 export default function Celebration() {
-  console.log('Hello from Mahmoud!')
+  console.log('Hello from Mahmoud with love!')
   return (
     <Wrapper>
       <TitleWrapper>
